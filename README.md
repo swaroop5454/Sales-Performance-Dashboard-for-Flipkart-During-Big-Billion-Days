@@ -5,7 +5,6 @@
 ![bandicam2024-11-2323-22-50-408-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/747c9a3c-2d3a-4771-a292-4c6bfb62edd3)
 
 
-# Let’s Go To Build A Flipkart Dashboard
 
 ### Presented by:
 **Swaroop H**  
