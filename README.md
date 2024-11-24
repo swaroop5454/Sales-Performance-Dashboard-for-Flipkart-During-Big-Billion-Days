@@ -19,10 +19,10 @@ Bengaluru | +91-8951444547 | [swaroop5454@gmail.com](mailto:swaroop5454@gmail.co
 The dataset contains three tables: `Sales_Data`, `Product_Data`, and `Customer_Data`. These tables are merged using a left join to create the final dataset with **100,000 rows and 17 columns**.
 
 ### Column Details:
-- **Order Details**: Order Id, Order Date, Customer Id, Product Id.
-- **Transaction Metrics**: Qty, Unit Price, Total Sales.
-- **Customer Details**: Customer Name, Email, Phone, Join Date, Age, Gender.
-- **Product Details**: Product Name, Category, Stock Qty.
+- **Order Details**: `Order Id`, `Order Date`, `Customer Id`, `Product Id`.
+- **Transaction Metrics**: `Qty`, `Unit Price`, `Total Sales`.
+- **Customer Details**: `Customer Name`, `Email`, `Phone`, `Join Date`, `Age`, `Gender`.
+- **Product Details**: `Product Name`, `Category`, `Stock Qty`.
 - **Region**: Indicates the geographical region of sales.
 
 ---
